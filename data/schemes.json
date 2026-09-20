@@ -1,0 +1,29 @@
+[
+  {
+    "scheme_name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "description": "Central sector scheme providing income support to landholding farmer families across the country.",
+    "eligibility_rules": {
+      "max_land_acres": 5.0,
+      "category": "farmer"
+    },
+    "benefit": "Financial benefit of ₹6,000 per year, transferred directly into bank accounts in three equal 4-monthly installments of ₹2,000 each."
+  },
+  {
+    "scheme_name": "PMFBY (Pradhan Mantri Fasal Bima Yojana)",
+    "description": "Comprehensive crop insurance scheme protecting farmers against crop loss due to natural calamities, pests, and diseases.",
+    "eligibility_rules": {
+      "max_land_acres": null,
+      "category": "any"
+    },
+    "benefit": "Full financial risk coverage against natural crop loss, with nominal premium of 2% for Kharif crops, 1.5% for Rabi crops, and 5% for commercial/horticultural crops."
+  },
+  {
+    "scheme_name": "SMAM (Sub-Mission on Agricultural Mechanization)",
+    "description": "Government subsidy scheme promoting modern farm machinery and equipment adoption among small and marginal farmers.",
+    "eligibility_rules": {
+      "max_land_acres": 10.0,
+      "category": "farmer"
+    },
+    "benefit": "40% to 50% financial subsidy on the purchase of agricultural machinery, tractors, and power tillers."
+  }
+]

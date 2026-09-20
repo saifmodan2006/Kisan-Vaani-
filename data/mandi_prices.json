@@ -1,0 +1,122 @@
+[
+  {
+    "crop": "onion",
+    "district": "Nashik",
+    "price_per_quintal": 2250,
+    "date": "2026-09-18"
+  },
+  {
+    "crop": "onion",
+    "district": "Pune",
+    "price_per_quintal": 2400,
+    "date": "2026-09-19"
+  },
+  {
+    "crop": "onion",
+    "district": "Indore",
+    "price_per_quintal": 2100,
+    "date": "2026-09-19"
+  },
+  {
+    "crop": "onion",
+    "district": "Karnal",
+    "price_per_quintal": 2550,
+    "date": "2026-09-17"
+  },
+  {
+    "crop": "wheat",
+    "district": "Indore",
+    "price_per_quintal": 2600,
+    "date": "2026-09-19"
+  },
+  {
+    "crop": "wheat",
+    "district": "Karnal",
+    "price_per_quintal": 2520,
+    "date": "2026-09-20"
+  },
+  {
+    "crop": "wheat",
+    "district": "Pune",
+    "price_per_quintal": 2750,
+    "date": "2026-09-18"
+  },
+  {
+    "crop": "wheat",
+    "district": "Nashik",
+    "price_per_quintal": 2680,
+    "date": "2026-09-18"
+  },
+  {
+    "crop": "rice",
+    "district": "Karnal",
+    "price_per_quintal": 3850,
+    "date": "2026-09-20"
+  },
+  {
+    "crop": "rice",
+    "district": "Pune",
+    "price_per_quintal": 3400,
+    "date": "2026-09-19"
+  },
+  {
+    "crop": "rice",
+    "district": "Nashik",
+    "price_per_quintal": 3300,
+    "date": "2026-09-17"
+  },
+  {
+    "crop": "rice",
+    "district": "Indore",
+    "price_per_quintal": 3200,
+    "date": "2026-09-18"
+  },
+  {
+    "crop": "cotton",
+    "district": "Nashik",
+    "price_per_quintal": 7450,
+    "date": "2026-09-19"
+  },
+  {
+    "crop": "cotton",
+    "district": "Pune",
+    "price_per_quintal": 7600,
+    "date": "2026-09-18"
+  },
+  {
+    "crop": "cotton",
+    "district": "Indore",
+    "price_per_quintal": 7250,
+    "date": "2026-09-19"
+  },
+  {
+    "crop": "cotton",
+    "district": "Karnal",
+    "price_per_quintal": 7100,
+    "date": "2026-09-17"
+  },
+  {
+    "crop": "tomato",
+    "district": "Nashik",
+    "price_per_quintal": 1800,
+    "date": "2026-09-20"
+  },
+  {
+    "crop": "tomato",
+    "district": "Pune",
+    "price_per_quintal": 1950,
+    "date": "2026-09-20"
+  },
+  {
+    "crop": "tomato",
+    "district": "Indore",
+    "price_per_quintal": 1650,
+    "date": "2026-09-19"
+  },
+  {
+    "crop": "tomato",
+    "district": "Karnal",
+    "price_per_quintal": 1750,
+    "date": "2026-09-18"
+  }
+]
